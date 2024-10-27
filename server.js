@@ -7,6 +7,7 @@ const PORT = 3000;
 const FILES_DIRECTORY = path.join(__dirname, 'files');
 
 app.use(express.static(__dirname));
+app.use('/files', express.static(FILES_DIRECTORY));
 app.use(express.json());
 
 // Rota para listar os arquivos do diretório
