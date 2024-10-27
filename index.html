@@ -206,18 +206,19 @@
         let currentAnswer = '';
         let canProceed = false;
         let originalFileName = '';
+        let currentFileUrl = '';
 
-        // Carregar lista de arquivos do servidor
+        // URLs dos arquivos disponíveis para carregar (adicione suas URLs aqui)
+        const fileUrls = [
+            { name: 'Arquivo 1', url: 'https://staticsite-abks.onrender.com/files/arquivo_24.txt' },
+        ];
+
+        // Carregar lista de URLs dos arquivos
         function loadFileList() {
-            fetch('/list-files')
-                .then(response => response.json())
-                .then(data => {
-                    const fileDropdown = document.getElementById('fileDropdown');
-                    fileDropdown.innerHTML += data.files.map(file => 
-                        `<button onclick="loadFileFromServer('${file}')">${file}</button>`
-                    ).join('');
-                })
-                .catch(error => console.error('Erro ao carregar a lista de arquivos:', error));
+            const fileDropdown = document.getElementById('fileDropdown');
+            fileDropdown.innerHTML += fileUrls.map(file => 
+                `<button onclick="loadFileFromUrl('${file.url}', '${file.name}')">${file.name}</button>`
+            ).join('');
         }
 
         // Toggle para mostrar ou esconder o dropdown
@@ -226,13 +227,14 @@
             fileDropdown.style.display = fileDropdown.style.display === 'block' ? 'none' : 'block';
         }
 
-        // Carregar o conteúdo do arquivo selecionado
-        function loadFileFromServer(fileName) {
+        // Carregar o conteúdo do arquivo selecionado a partir da URL
+        function loadFileFromUrl(fileUrl, fileName) {
             originalFileName = fileName.replace('.txt', '');
+            currentFileUrl = fileUrl;
             const match = originalFileName.match(/_(\d+)$/);
             currentQuestionIndex = match ? parseInt(match[1], 10) - 1 : 0;
 
-            fetch(`/files/${fileName}`)
+            fetch(fileUrl)
                 .then(response => response.text())
                 .then(text => {
                     const lines = text.split('\n').filter(line => line.trim());
@@ -307,6 +309,7 @@
         function renameFile() {
             const trimmedName = originalFileName.replace(/_\d+$/, '');
             const newFileName = `${trimmedName}_${currentQuestionIndex + 1}.txt`;
+            const newFileUrl = currentFileUrl.replace(/_\d+\.txt$/, `_${currentQuestionIndex + 1}.txt`);
             fetch('/rename', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -315,6 +318,13 @@
               .then(data => {
                   console.log('Arquivo renomeado:', data);
                   originalFileName = newFileName.replace('.txt', ''); // Atualiza o nome do arquivo no sistema
+                  // Atualizar a URL no fileUrls
+                  const fileIndex = fileUrls.findIndex(file => file.url === currentFileUrl);
+                  if (fileIndex !== -1) {
+                      fileUrls[fileIndex].url = newFileUrl;
+                      fileUrls[fileIndex].name = newFileName.replace('.txt', '');
+                  }
+                  currentFileUrl = newFileUrl;
                   location.reload(); // Recarrega a página após renomear
               })
               .catch(error => console.error('Erro ao renomear arquivo:', error));
