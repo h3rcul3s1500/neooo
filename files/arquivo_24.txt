@@ -1,0 +1,232 @@
+A ação de indenização deve ser movida contra a pessoa jurídica de direito público ou de direito privado prestadora de serviço público, e não contra o agente público.;Certo
+Se um servidor público causar dano a um terceiro, este pode mover a ação diretamente contra o servidor.;Errado - A ação deve ser movida contra a pessoa jurídica à qual o servidor está vinculado, não contra o servidor diretamente.
+O direito de regresso permite que o Estado cobre do agente público os valores pagos em indenização, caso o agente tenha agido com dolo ou culpa.;Certo
+O particular lesado pode escolher entre mover a ação de indenização contra o Estado ou diretamente contra o agente público.;Errado - A ação deve ser movida contra o Estado, conforme a tese de repercussão geral do STF.
+A indenização deve cobrir apenas os prejuízos materiais e não os lucros cessantes.;Errado - A indenização deve abranger os prejuízos materiais, os lucros cessantes e os gastos para obter o ressarcimento.
+O valor da indenização pode incluir os custos com advogado e outros gastos para obter a reparação.;Certo
+Em caso de morte de um terceiro em decorrência de ação estatal, a indenização deve incluir os custos de sepultamento e a prestação alimentícia aos dependentes.;Certo
+A ação de regresso contra o agente público é obrigatória em todos os casos de responsabilidade objetiva.;Errado - A ação de regresso é cabível apenas quando há dolo ou culpa por parte do agente.
+A ação regressiva é uma obrigação do Estado e deve ser movida contra o agente que causou o dano se comprovados dolo ou culpa.;Certo
+O Estado pode decidir, de forma discricionária, se moverá ou não a ação regressiva contra um agente que causou dano com dolo ou culpa.;Errado - A ação regressiva é obrigatória quando há dolo ou culpa, em virtude do princípio da indisponibilidade do interesse público.
+A ação regressiva contra um agente público pode ser movida mesmo após o vínculo do agente com a Administração ser extinto.;Certo
+A indenização paga pelo Estado ao terceiro lesado deve ser seguida de ação regressiva se o agente público agiu de forma culposa.;Certo
+A denunciação da lide é obrigatória nos casos de responsabilidade civil do Estado.;Errado - A denunciação da lide é facultativa e cabe ao magistrado decidir conforme a situação.
+O valor da indenização pode ser recuperado pelo Estado dos herdeiros de um agente falecido, até o limite do valor da herança.;Certo
+Se um servidor público causar dano a um terceiro sem dolo ou culpa, o Estado não poderá mover ação regressiva contra ele.;Certo
+Mesmo que não haja dolo, o Estado tem o direito de cobrar do agente os valores pagos em indenização.;Errado - A ação de regresso só é cabível quando há dolo ou culpa do agente.
+O caso fortuito e a força maior são considerados eventos imprevisíveis e inevitáveis, que podem excluir a responsabilidade objetiva do Estado.;Certo
+Uma grande enchente inesperada que cause danos a propriedades particulares não gera responsabilidade objetiva do Estado.;Certo
+Caso fortuito ou força maior podem levar à responsabilidade subjetiva do Estado se houver omissão culposa.;Certo
+A responsabilidade do Estado por eventos da natureza é sempre objetiva, independentemente de omissão do Poder Público.;Errado - A responsabilidade por eventos da natureza é subjetiva, exigindo comprovação de omissão culposa do Estado.
+Se o Estado falhar na manutenção de bueiros e uma enchente causar danos, pode-se configurar a responsabilidade subjetiva do Estado.;Certo
+A ocorrência de concausas, como a omissão culposa do Estado em conjunto com um fato imprevisível, pode atenuar, mas não excluir, a responsabilidade estatal.;Certo
+A responsabilidade do Estado por danos causados por terremotos ou tsunamis é sempre excluída, independentemente de qualquer conduta estatal.;Errado - A responsabilidade pode ser analisada caso haja omissão culposa do Estado em medidas de prevenção.
+Para que a responsabilidade subjetiva do Estado seja aplicada em eventos de caso fortuito, é necessário comprovar que a ação do evento poderia ter sido minimizada com a atuação estatal.;Certo
+O Estado pode ter o dever de indenizar mesmo que o comportamento estatal seja lícito.;Certo
+Se um policial em perseguição atinge um veículo de um terceiro, o Estado só será obrigado a indenizar se houver dolo do policial.;Errado - O Estado deverá indenizar independentemente de dolo ou culpa do policial, desde que haja nexo com o dano.
+A teoria do risco administrativo admite causas de exclusão de responsabilidade.;Certo
+A teoria do risco integral permite que o Estado se exima da responsabilidade ao comprovar culpa exclusiva do particular.;Errado - A teoria do risco integral não admite causas excludentes de responsabilidade, mesmo com culpa exclusiva do particular.
+Na teoria do risco administrativo, a Administração tem a possibilidade de atenuar a responsabilidade se comprovar culpa concorrente do particular.;Certo
+O ônus da prova para demonstrar a culpa do particular é do particular lesado.;Errado - O ônus da prova para demonstrar a culpa do particular é da Administração.
+A teoria do risco integral torna o Estado um segurador universal, que deve indenizar independentemente de causas externas.;Certo
+Segundo a teoria do risco integral, é necessário comprovar o nexo causal entre a conduta estatal e o dano sofrido pelo particular.;Errado - Alguns doutrinadores afirmam que a responsabilidade integral não depende necessariamente do nexo causal.
+A teoria da culpa administrativa é também conhecida como culpa do serviço ou culpa anônima.;Certo
+Na teoria da culpa administrativa, a responsabilidade do Estado depende da culpa subjetiva do agente.;Errado - A responsabilidade do Estado independe da culpa subjetiva do agente, sendo a culpa atribuída ao serviço.
+A culpa administrativa se aplica quando o serviço não funcionou, funcionou mal ou atrasou.;Certo
+A teoria da culpa administrativa representa a transição entre a doutrina subjetiva da culpa civil e a responsabilidade objetiva.;Certo
+Na culpa administrativa, a responsabilidade é sempre do agente público individual.;Errado - A responsabilidade é do Estado e não de um agente público individual, sendo considerada uma culpa anônima.
+Para que haja responsabilidade do Estado pela culpa do serviço, é necessário que o particular prejudicado comprove a ocorrência da falha.;Certo
+A teoria da culpa administrativa é uma teoria objetivista, que não considera a atuação do serviço público.;Errado - A teoria considera a atuação do serviço público e identifica falhas no funcionamento do serviço como base para a responsabilidade.
+A culpa anônima do serviço significa que a responsabilidade pode ser atribuída diretamente a um servidor específico.;Errado - A culpa anônima significa que não é atribuída a um servidor específico, mas sim ao serviço como um todo.
+O Estado pode se eximir da responsabilidade civil se comprovar que a culpa pelo dano é exclusiva da vítima.;Certo
+Em um acidente de trânsito com um veículo oficial, a responsabilidade do Estado é sempre automática, independentemente da conduta do particular.;Errado - A responsabilidade do Estado pode ser excluída se ficar demonstrado que a culpa pelo acidente foi exclusiva do particular.
+O ônus de provar que a culpa é exclusiva da vítima cabe ao particular, não ao Estado.;Errado - O ônus de provar que a culpa é exclusiva da vítima cabe ao Estado.
+A culpa concorrente do particular em um acidente atenua, mas não exclui, a responsabilidade do Estado.;Certo
+Se uma pessoa se jogar na frente de um veículo oficial, o Estado poderá se eximir da responsabilidade pela indenização.;Certo
+A responsabilidade objetiva do Estado pode ser excluída em caso de atos exclusivos de terceiros, como tumultos ou vandalismos.;Certo
+Para responsabilizar o Estado por danos em um tumulto, é necessário comprovar omissão culposa do poder público.;Certo
+Mesmo que um ato seja exclusivamente de um terceiro, o Estado sempre será responsabilizado de forma objetiva.;Errado - A responsabilidade objetiva pode ser excluída em caso de atos exclusivos de terceiros, sendo necessária a prova de omissão culposa para responsabilização subjetiva.
+A teoria do risco administrativo admite a exclusão da responsabilidade civil do Estado em casos de força maior.;Certo
+A culpa exclusiva da vítima pode eximir o Estado de responsabilidade pela teoria do risco administrativo.;Certo
+O fato exclusivo de terceiro é uma hipótese de exclusão da responsabilidade objetiva do Estado.;Certo
+A teoria do risco administrativo não admite excludentes de responsabilidade, mesmo que haja culpa exclusiva da vítima.;Errado - A teoria admite excludentes como a culpa exclusiva da vítima, o que pode eximir o Estado de responsabilidade.
+Caso fortuito não é considerado uma hipótese de exclusão da responsabilidade objetiva do Estado.;Errado - Caso fortuito é uma das hipóteses de exclusão da responsabilidade objetiva na teoria do risco administrativo.
+Mesmo em casos de exclusão da responsabilidade objetiva, o particular ainda pode tentar demonstrar a responsabilidade subjetiva do Estado.;Certo
+Fatos atribuídos exclusivamente a terceiros não eximem o Estado de sua responsabilidade civil.;Errado - Fatos exclusivos de terceiros podem eximir o Estado de responsabilidade pela teoria do risco administrativo.
+A teoria do risco administrativo é inflexível e não admite a análise de culpa ou dolo do particular.;Errado - A teoria admite a análise de situações em que a culpa exclusiva da vítima ou de terceiros possa excluir a responsabilidade do Estado.
+O nexo causal é a relação entre a conduta estatal e o dano sofrido pelo terceiro.;Certo
+Para que o Estado seja responsabilizado, é necessário comprovar o nexo causal entre a ação administrativa e o dano.;Certo
+A responsabilidade civil do Estado depende da comprovação de dolo ou culpa do agente público.;Errado - A responsabilidade é objetiva, dispensando a comprovação de dolo ou culpa, mas exige comprovação do nexo causal.
+A responsabilidade objetiva do Estado não exige que o ato praticado seja ilícito.;Certo
+Se um dano for causado por uma ação lícita do Estado, o dever de indenizar não se aplica.;Errado - Mesmo em ações lícitas, o dever de indenizar pode existir se houver dano e nexo causal.
+A licitude da ação administrativa é um elemento fundamental para a configuração da responsabilidade objetiva do Estado.;Errado - A licitude ou ilicitude da ação é irrelevante para a responsabilidade, que depende de dano, conduta e nexo causal.
+O terceiro que busca indenização do Estado deve comprovar que o dano foi causado por uma ação estatal.;Certo
+Em situações onde o nexo de causalidade não é comprovado, o Estado não pode ser responsabilizado pelo dano.;Certo
+Para que o Estado seja responsabilizado, é necessário que o agente público esteja no exercício de suas funções ou que sua atuação decorra dessa qualidade.;Certo
+A responsabilidade civil do Estado pode ocorrer mesmo que a atuação do agente público não esteja relacionada à sua função.;Errado - A responsabilidade exige que a conduta do agente decorra de sua qualidade como agente público.
+Se um policial militar, fora do serviço, agir em sua qualidade de agente para conter um tumulto, o Estado poderá ser responsabilizado.;Certo
+A oficialidade da conduta não é relevante para a configuração da responsabilidade objetiva do Estado.;Errado - A oficialidade da conduta é fundamental, pois o agente precisa estar agindo como tal, mesmo que fora de serviço.
+Um agente que, fora de serviço, utiliza arma da corporação por razões pessoais não gera responsabilidade para o Estado.;Certo
+O Estado pode ser responsabilizado por atos de um agente de fato, desde que sua atuação tenha sido consentida pelo Poder Público.;Certo
+Se uma pessoa se passa por servidor público sem o consentimento do Estado, este poderá ser responsabilizado objetivamente.;Errado - Sem o consentimento do Estado, não há nexo de causalidade, logo, o Estado não pode ser responsabilizado.
+A responsabilidade objetiva do Estado se aplica a ações de agentes públicos, mesmo que estas ocorram por motivos pessoais alheios à função pública.;Errado - A responsabilidade do Estado depende da atuação na qualidade de agente público, não por motivos pessoais.
+A responsabilidade do Estado em casos de omissão é, em regra, subjetiva, exigindo a comprovação de omissão culposa.;Certo
+A omissão do Estado deve ser comprovada como uma falta de serviço para que haja responsabilidade subjetiva.;Certo
+A responsabilidade do Estado por omissão é sempre objetiva, independentemente de culpa.;Errado - A responsabilidade por omissão é subjetiva, necessitando prova de omissão culposa do Estado.
+A culpa do Estado em casos de omissão deve ser sempre individualizada para que haja responsabilidade.;Errado - A culpa não precisa ser individualizada, podendo ser atribuída de forma genérica ao serviço público (culpa anônima).
+Quando o Estado deixa de agir em um caso onde tinha obrigação legal de fazê-lo, a responsabilidade por omissão pode ser considerada objetiva.;Errado - A responsabilidade permanece subjetiva, mesmo com a omissão específica, salvo se se equiparar a um ato comissivo.
+Nos casos de fenômenos da natureza, a responsabilidade do Estado pode ser subjetiva se houver omissão na manutenção de infraestruturas como bueiros.;Certo
+Se todos os bueiros de uma cidade estiverem limpos e mesmo assim uma enchente causar danos, o Estado será responsabilizado por omissão.;Errado - Se o Estado cumpriu suas obrigações, a responsabilidade não pode ser atribuída por omissão.
+Eventos de força maior sempre excluem a responsabilidade do Estado, independentemente de qualquer conduta.;Errado - Em caso de concausas, onde há omissão culposa do Estado em conjunto com o evento imprevisível, a responsabilidade pode ser subjetiva.
+A posição de garante ocorre quando o Estado assume o dever de guarda ou proteção sobre pessoas ou bens.;Certo
+O Estado pode ser responsabilizado objetivamente pela integridade de presos sob sua custódia.;Certo
+A responsabilidade do Estado por omissão é sempre subjetiva, mesmo em casos onde atua como garante.;Errado - A responsabilidade pode ser objetiva quando o Estado atua como garante, com base na teoria do risco administrativo.
+A responsabilidade do Estado em caso de lesão a um aluno dentro de uma escola pública é subjetiva, exigindo prova de culpa.;Errado - A responsabilidade é objetiva, pois a instituição tinha o dever de garantir a integridade do aluno.
+Se um preso sofre lesões em uma briga dentro da penitenciária, a responsabilidade do Estado pode ser objetiva.;Certo
+O risco administrativo permite ao Estado comprovar que era impossível evitar o dano em casos onde atua como garante.;Certo
+Nos casos de fenômenos da natureza, a responsabilidade do Estado é objetiva, mesmo sem prova de omissão.;Errado - A responsabilidade é subjetiva em casos de fenômenos da natureza, exigindo prova de omissão culposa.
+Em casos de enchentes frequentes e falta de manutenção adequada, a responsabilidade do Estado pelos danos pode ser considerada subjetiva.;Certo
+O prazo prescricional da ação movida pelo terceiro lesado em face do Estado é de cinco anos.;Certo
+A ação de ressarcimento por danos ao erário causados por ilícitos civis é prescritível.;Certo
+A ação regressiva contra o agente público é sempre imprescritível, independentemente da natureza do ilícito.;Errado - A ação regressiva é prescritível em casos de ilícitos civis, mas é imprescritível em casos de improbidade administrativa dolosa.
+Atos de improbidade administrativa dolosa geram ações de ressarcimento imprescritíveis.;Certo
+O STF decidiu que a ação de execução baseada em decisão de tribunal de contas é imprescritível.;Errado - A ação de execução baseada em decisão de tribunal de contas é prescritível, conforme o STF, sendo regulada pela Lei de Execução Fiscal.
+A ação de execução de ressarcimento ao erário por decisão de tribunal de contas deve ser movida no prazo determinado pela Lei 6.830/1980.;Certo
+O prazo prescricional para ações de reparação contra a Fazenda Pública foi fixado em três anos pelo STJ.;Errado - O STJ aplicou o prazo de cinco anos, conforme o Decreto 20.910/1932 e a Lei 9.494/1997.
+A prescrição não se aplica aos casos de reparação de danos causados por atos de tortura durante o regime militar.;Certo
+A ação de um terceiro lesado contra o Estado prescreve em cinco anos.;Certo
+A ação regressiva do Estado contra um agente público por danos causados por ilícitos civis é prescritível e possui prazo de cinco anos.;Certo
+A ação regressiva do Estado contra um agente público por atos de improbidade dolosa é prescritível.;Errado - A ação regressiva por atos de improbidade dolosa é imprescritível.
+A ação de ressarcimento ao erário baseada em decisão de Tribunal de Contas é prescritível, seguindo a Lei de Execução Fiscal.;Certo
+Ilícitos civis cometidos por agentes públicos geram ações de regresso prescritíveis, com prazo de cinco anos para a Administração Pública.;Certo
+A ação de ressarcimento por improbidade administrativa dolosa contra agentes públicos tem prazo de prescrição de cinco anos.;Errado - A ação de ressarcimento por improbidade administrativa dolosa é imprescritível.
+As ações de ressarcimento ao erário fundadas em decisões de Tribunais de Contas são sempre imprescritíveis.;Errado - Elas são prescritíveis, seguindo a forma da Lei de Execução Fiscal.
+O prazo de prescrição para ações de ressarcimento por danos causados por agentes públicos é sempre de cinco anos, independentemente da natureza do ilícito.;Errado - O prazo é de cinco anos para ilícitos civis, mas é imprescritível em casos de improbidade dolosa.
+A responsabilidade objetiva do Estado e a responsabilidade subjetiva do agente são previstas no §6º do art. 37 da CF.;Certo
+O Estado pode mover ação regressiva contra um agente público que tenha atuado com dolo ou culpa após indenizar o terceiro.;Certo
+A ação regressiva contra o agente público só é possível se o Estado tiver sido condenado a indenizar e houver dolo ou culpa do agente.;Certo
+A ação de indenização pode ser movida diretamente contra o agente público por parte do terceiro lesado.;Errado - A ação de indenização deve ser movida contra a pessoa jurídica de direito público ou privado prestadora de serviço público, não contra o agente.
+Os sucessores de um agente público falecido não podem ser responsabilizados em ação regressiva, mesmo que ele tenha atuado com dolo ou culpa.;Errado - Os sucessores podem ser chamados a responder, mas apenas até o limite do valor do patrimônio transferido.
+A ação regressiva é inaplicável quando o agente público não tem mais vínculo com a Administração.;Errado - A ação regressiva pode ser movida mesmo se o vínculo do agente com a Administração já tenha sido extinto.
+A denunciação da lide é obrigatória nos casos de ação regressiva movida pelo Estado.;Errado - A denunciação da lide é facultativa, cabendo ao magistrado decidir conforme a situação do caso.
+A denunciação da lide pode ser recusada pelo juiz se ela comprometer a economia e celeridade processuais.;Certo
+Em regra, o Estado não responde civilmente pela atividade legislativa, pois esta se insere no legítimo poder de império.;Certo
+O Estado pode ser responsabilizado civilmente pela edição de leis inconstitucionais.;Certo
+Para que haja responsabilidade do Estado pela edição de uma lei inconstitucional, é necessário que a lei seja declarada inconstitucional pelo órgão competente.;Certo
+A edição de leis de efeitos concretos pode gerar responsabilidade civil do Estado, pois essas leis se assemelham a atos administrativos.;Certo
+O Estado sempre é responsabilizado pela omissão legislativa, independentemente de prazos fixados pela Constituição.;Errado - A responsabilidade do Estado por omissão legislativa ocorre apenas em casos em que a Constituição fixa prazo para a edição da norma.
+Leis de efeitos concretos são aquelas que possuem generalidade e abstração, aplicando-se a um número indeterminado de destinatários.;Errado - Leis de efeitos concretos não possuem generalidade e abstração e se aplicam a destinatários específicos.
+A omissão legislativa pode gerar responsabilidade civil do Estado mesmo se for apresentada uma medida provisória ou projeto de lei dentro do prazo constitucional.;Errado - A apresentação de uma medida provisória ou projeto de lei dentro do prazo impede a responsabilização por omissão legislativa.
+A responsabilidade civil do Estado pela atividade legislativa pode ser pleiteada em casos de leis de efeitos concretos que causam danos a particulares.;Certo
+Em regra, o Estado não pode ser responsabilizado civilmente pelo exercício dos atos jurisdicionais.;Certo
+O Estado pode ser responsabilizado por erro judiciário e por prisão além do tempo fixado na sentença.;Certo
+A responsabilidade do Estado por erro judiciário é objetiva, independentemente da comprovação de dolo ou culpa do magistrado.;Certo
+A absolvição de um réu após prisão temporária justifica automaticamente a indenização por erro judiciário.;Errado - A absolvição por si só não caracteriza erro judiciário e não gera direito à indenização.
+A responsabilidade do Estado pode ser pleiteada em casos de conduta dolosa do juiz que cause prejuízos.;Certo
+No Novo CPC, a responsabilidade civil por atos dolosos do juiz é direta e recai exclusivamente sobre o magistrado.;Errado - A responsabilidade civil recai sobre o Estado, cabendo ação de regresso contra o juiz.
+A responsabilidade do Estado por atos jurisdicionais é sempre subjetiva, exigindo comprovação de dolo do juiz.;Errado - A responsabilidade por erro judiciário e prisão além do tempo é objetiva.
+Atos administrativos do Poder Judiciário, que não envolvem função jurisdicional, estão sujeitos à regra de responsabilidade civil objetiva.;Certo
+A responsabilidade no Direito refere-se à necessidade de uma pessoa responder por algum dano que causou.;Certo
+A responsabilidade civil é a obrigação de um indivíduo de cumprir um contrato firmado.;Errado - A responsabilidade civil trata da obrigação de reparar danos causados a terceiros, seja de natureza patrimonial ou moral.
+A responsabilidade penal refere-se à possibilidade de alguém sofrer uma restrição de liberdade por ter cometido um crime.;Certo
+A responsabilidade administrativa é quando alguém deve indenizar um dano causado a terceiros.;Errado - A responsabilidade administrativa refere-se a penalidades internas, como a perda de cargo de um servidor público por falta funcional.
+Na responsabilidade contratual do Estado, há um vínculo contratual entre o Estado e o terceiro.;Certo
+A responsabilidade extracontratual do Estado decorre de um contrato firmado entre o Estado e o lesado.;Errado - A responsabilidade extracontratual do Estado ocorre quando não há vínculo contratual entre as partes.
+A responsabilidade civil do Estado também é conhecida como responsabilidade Aquiliana.;Certo
+Historicamente, o Estado sempre foi responsável civilmente por danos causados a terceiros.;Errado - Houve períodos em que o Estado era considerado irresponsável civilmente.
+A responsabilidade civil do Estado só ocorre quando há violação de um direito juridicamente tutelado.;Certo
+Se um comerciante perder clientes devido à mudança de uma repartição pública, o Estado deve indenizá-lo pelo prejuízo.;Errado - O prejuízo não representa a violação de um direito juridicamente tutelado, logo, não há dever de indenizar.
+A construção de uma represa que inunda propriedades privadas pode gerar o dever de indenizar, mesmo sendo uma ação lícita do Estado.;Certo
+Danos econômicos são suficientes para fundamentar uma ação de indenização contra o Estado.;Errado - O dano precisa ser jurídico, não apenas econômico, para justificar a responsabilidade do Estado.
+O Estado pode ser responsabilizado por danos de natureza patrimonial e moral.;Certo
+A responsabilidade civil do Estado incide apenas sobre danos materiais.;Errado - Ela pode incidir tanto sobre danos materiais quanto sobre danos morais.
+A violação de direitos como a propriedade e a honra pode fundamentar a responsabilidade civil do Estado.;Certo
+Uma revista vexatória realizada por um agente público pode gerar o dever de indenizar por dano moral.;Certo
+A responsabilidade objetiva não se aplica às empresas públicas e sociedades de economia mista que exploram atividade econômica.;Certo
+As empresas públicas e sociedades de economia mista exploradoras de atividade econômica têm sua responsabilidade regida pelas normas do Direito Administrativo.;Errado - Sua responsabilidade é regida pelas normas do Direito Civil e do Direito Comercial.
+Se o Banco do Brasil causar prejuízos a terceiros, a responsabilidade será objetiva, dispensando a prova de dolo ou culpa.;Errado - A responsabilidade será subjetiva, exigindo prova de dolo ou culpa do agente.
+O direito de regresso permite que o Estado recupere valores pagos em indenizações quando ficar comprovado dolo ou culpa do agente responsável.;Certo
+O direito de regresso só é possível quando o agente atuar de forma totalmente isenta de dolo ou culpa.;Errado - O direito de regresso é exercido quando há dolo ou culpa por parte do agente.
+A responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviço público alcança tanto usuários quanto não usuários do serviço.;Certo
+Para que haja a responsabilidade objetiva de uma empresa que presta serviço público, é necessário comprovar o nexo de causalidade entre o ato administrativo e o dano.;Certo
+Uma empresa de transporte municipal será responsabilizada subjetivamente se colidir com um ciclista, sendo necessário comprovar dolo ou culpa.;Errado - A empresa será responsabilizada objetivamente, bastando o nexo de causalidade, mesmo que o ciclista não seja usuário do serviço.
+A ideia de responsabilização do Estado surgiu com base no direito privado, levando ao surgimento das teorias civilistas.;Certo
+As teorias civilistas equiparam o Estado ao indivíduo, aplicando as mesmas regras do Direito Civil para indenização de danos.;Certo
+A teoria civilista não fazia distinção entre atos de império e atos de gestão.;Errado - A teoria civilista diferenciava os atos de império, onde o Estado atuava com soberania, dos atos de gestão, em que se colocava em igualdade com o particular.
+Nos atos de gestão, o Estado se coloca em posição de superioridade perante o particular.;Errado - Nos atos de gestão, o Estado se coloca em situação de igualdade perante o particular.
+Segundo a teoria civilista, o Estado seria responsável por danos causados tanto em atos de império quanto em atos de gestão.;Errado - A teoria civilista considerava que o Estado só poderia ser responsabilizado pelos atos de gestão, não pelos atos de império.
+A teoria civilista foi superada devido à sua inadequação em separar os atos de império dos atos de gestão.;Certo
+Atos de império são aqueles em que o Estado exerce sua soberania, como nas desapropriações.;Certo
+A teoria civilista ainda é amplamente aplicada para a responsabilização do Estado nos dias de hoje.;Errado - A teoria civilista foi superada e não é mais utilizada como principal forma de responsabilização do Estado.
+Todas as pessoas jurídicas de direito público e as de direito privado que integrem a administração pública respondem objetivamente por danos causados a terceiros.;Errado - Somente as pessoas jurídicas de direito privado que prestam serviços públicos é que respondem objetivamente.
+As empresas públicas exploradoras de atividade econômica respondem objetivamente por danos causados a terceiros.;Errado - Essas empresas respondem conforme as normas do Direito Civil e Comercial, não de forma objetiva.
+Se um prefeito municipal causar prejuízo patrimonial a terceiros, o município deverá indenizar os danos causados.;Certo
+A responsabilidade civil objetiva abrange tanto as autarquias quanto as empresas públicas prestadoras de serviços públicos.;Certo
+Apenas as pessoas jurídicas de direito público podem responder objetivamente por danos causados a terceiros.;Errado - Pessoas jurídicas de direito privado prestadoras de serviços públicos também podem responder objetivamente.
+As delegatárias de serviço público, ao exercer a atividade delegada, estão sujeitas à responsabilidade civil objetiva.;Certo
+A responsabilidade civil objetiva das empresas públicas não se aplica quando estas exploram atividades econômicas.;Certo
+Empresas privadas delegatárias de serviço público estão isentas da responsabilidade objetiva do Estado.;Errado - As delegatárias de serviço público respondem objetivamente quando no exercício da atividade delegada.
+Os serviços notariais e de registro são exercidos em caráter privado por delegação do Poder Público.;Certo
+A responsabilidade civil do Estado pelos danos causados por notários e oficiais de registro é objetiva e primária.;Certo
+Em caso de dolo ou culpa do notário ou oficial de registro, o Estado deve mover ação de regresso.;Certo
+A responsabilidade do notário ou oficial de registro por danos a terceiros é objetiva e não depende de ação de regresso.;Errado - A responsabilidade do notário ou oficial de registro é subjetiva e depende de dolo ou culpa, sendo necessária a ação de regresso.
+O Estado tem a faculdade de decidir se moverá ou não ação de regresso contra um notário ou oficial de registro que agiu com dolo ou culpa.;Errado - A ação de regresso é um dever do Estado, não uma faculdade, em casos de dolo ou culpa.
+A Lei 8.935/1994 estabelece que os notários e oficiais de registro são responsáveis por prejuízos causados a terceiros por culpa ou dolo.;Certo
+A decisão do STF no RE 842.846/SC foi proferida antes da vigência da Lei 13.286/2016, que alterou a Lei 8.935/1994.;Errado - O RE 842.846/SC foi julgado após a vigência da Lei 13.286/2016.
+O Estado responde apenas de forma subsidiária pelos danos causados por notários e oficiais de registro.;Errado - O Estado responde de forma primária e objetiva pelos danos, com possibilidade de regresso se houver dolo ou culpa do notário ou oficial.
+No Brasil, vigora a responsabilidade objetiva do Estado na modalidade de risco administrativo, conforme o art. 37, §6º, da Constituição Federal.;Certo
+A responsabilidade objetiva do Estado alcança tanto os atos comissivos quanto os omissivos da Administração Pública.;Errado - A responsabilidade objetiva não alcança os danos decorrentes de omissão, que são indenizados conforme a teoria da culpa administrativa.
+A responsabilidade objetiva se aplica a empresas privadas que prestam serviços públicos por delegação do Estado.;Certo
+As autarquias e fundações públicas de direito público estão fora do alcance da responsabilidade objetiva do Estado.;Errado - A responsabilidade objetiva abrange autarquias e fundações públicas de direito público, independentemente das atividades que realizam.
+Uma empresa fornecedora de energia elétrica pode ser responsabilizada objetivamente por danos decorrentes da prestação do serviço público.;Certo
+Para que a responsabilidade objetiva se aplique, é necessário que a atuação do agente esteja relacionada à prestação de serviço público.;Certo
+A responsabilidade objetiva do Estado, nos termos do art. 37, §6º, também se aplica a empresas públicas e sociedades de economia mista que não prestam serviços públicos.;Errado - A responsabilidade objetiva só se aplica a essas entidades quando elas estão prestando serviços públicos.
+A teoria da culpa administrativa é aplicada quando há omissão da Administração Pública, não se aplicando a atos comissivos.;Certo
+A regra geral é que o Estado não responde civilmente por atos jurisdicionais.;Certo
+A responsabilidade civil objetiva do Estado se aplica em casos de erro judiciário e prisão além do tempo fixado na sentença.;Certo
+A responsabilidade do Estado por erro judiciário e prisão além do tempo é restrita à esfera penal.;Certo
+A prisão preventiva ou temporária gera automaticamente direito à indenização se o réu for absolvido ao final do processo.;Errado - A absolvição não caracteriza automaticamente um erro judiciário e não gera direito à indenização.
+O Estado pode ser responsabilizado por condutas dolosas do juiz que causem prejuízos a terceiros.;Certo
+A responsabilidade do Estado por prisões temporárias é objetiva, mesmo que a prisão tenha ocorrido de forma regular.;Errado - A responsabilidade por prisões temporárias só é reconhecida se houver erro judiciário, não sendo objetiva se a prisão foi regular.
+Em casos de conduta dolosa de um juiz que cause prejuízo, a responsabilidade civil recai sobre o Estado, que pode buscar ressarcimento por meio de ação de regresso.;Certo
+A regra de responsabilidade civil objetiva do Estado não se aplica à esfera cível para atos jurisdicionais.;Certo
+A responsabilidade objetiva do Estado exige a comprovação de conduta, dano e nexo causal.;Certo
+Para obter ressarcimento por dano causado pelo Estado, é necessário comprovar que houve dolo ou culpa do agente público.;Errado - Na responsabilidade objetiva do Estado, não é necessário comprovar dolo ou culpa, apenas conduta, dano e nexo causal.
+O nexo de causalidade é o vínculo que deve existir entre a conduta do agente público e o dano sofrido pelo particular.;Certo
+A responsabilidade objetiva do Estado só se aplica quando não há danos materiais, apenas morais.;Errado - A responsabilidade objetiva do Estado pode ser aplicada tanto a danos materiais quanto morais, desde que os pressupostos estejam presentes.
+Para que o Estado seja responsabilizado, é preciso demonstrar que a conduta do agente público agindo nessa qualidade causou o dano.;Certo
+A comprovação da oficialidade da conduta causal é dispensável na responsabilidade objetiva do Estado.;Errado - A oficialidade da conduta é essencial para comprovar que o agente estava atuando em sua qualidade oficial.
+O ressarcimento por dano causado pelo Estado depende apenas da comprovação de que houve uma conduta de um agente público.;Errado - Além da conduta, é necessário comprovar a existência de dano e nexo de causalidade.
+O nexo de causalidade na responsabilidade objetiva do Estado refere-se à relação direta entre a ação do agente e o dano ocorrido.;Certo
+Durante uma operação policial, se uma viatura do DPF colidir com um carro particular, a administração será responsável pelos danos, mesmo que o motorista da viatura estivesse dirigindo de forma prudente.;Certo
+A teoria do risco administrativo considera que o Estado só deve indenizar se houver dolo ou culpa do agente público.;Errado - A teoria do risco administrativo estabelece a responsabilidade do Estado independentemente de dolo ou culpa do agente.
+Pela teoria do risco integral, o Estado deve reparar todo e qualquer dano, mesmo se a vítima tiver contribuído para o dano.;Certo
+A teoria do risco integral permite que o Estado se exima da responsabilidade se a vítima tiver contribuído para o dano.;Errado - A teoria do risco integral não admite excludentes de responsabilidade, mesmo que a vítima tenha contribuído para o dano.
+A teoria da faute du service, ou culpa do serviço, atribui a responsabilidade diretamente ao agente público responsável pela falha.;Errado - A teoria da faute du service atribui a responsabilidade ao Estado, não ao agente, sendo uma culpa anônima do serviço.
+Segundo a teoria da culpa administrativa, o particular prejudicado deve comprovar a ocorrência da falha para ter direito à indenização.;Certo
+A teoria do risco administrativo é a que predomina atualmente no direito administrativo para a responsabilidade civil do Estado.;Certo
+A teoria do risco integral reconhece a possibilidade de excludentes ao dever de indenizar, como caso fortuito ou força maior.;Errado - A teoria do risco integral não reconhece excludentes ao dever de indenizar, ao contrário do risco administrativo.
+A teoria da não responsabilização do Estado, também conhecida como teoria regaliana, foi predominante durante os regimes absolutistas.;Certo
+Na teoria regaliana, acreditava-se que o monarca podia ser responsabilizado por seus erros e ações.;Errado - Na teoria regaliana, entendia-se que o rei não cometia erros, sendo suas ações incontestáveis.
+A máxima 'The king can do no wrong' representa a ideia de que o rei era considerado infalível.;Certo
+A teoria da irresponsabilidade do Estado ainda é aplicada em diversos países.;Errado - A teoria foi totalmente superada e não é mais aplicada nos regimes democráticos de Direito.
+Os Estados Unidos e a Inglaterra foram os primeiros países a abandonar a teoria da irresponsabilidade do Estado.;Errado - Foram os últimos a abandoná-la, por meio do Federal Tort Claim Act, de 1946, e do Crown Proceeding Act, de 1947.
+A teoria civilista surgiu após o enfraquecimento e superação da teoria da irresponsabilidade do Estado.;Certo
+O Federal Tort Claim Act de 1946 é um marco da superação da teoria da irresponsabilidade nos Estados Unidos.;Certo
+A ideia de que o rei poderia ser responsabilizado por seus atos já era amplamente aceita durante os regimes absolutistas.;Errado - Durante os regimes absolutistas, acreditava-se que o rei não poderia ser responsabilizado por suas ações.
+Pela teoria do risco, basta haver relação entre o comportamento estatal e o dano sofrido pelo administrado para que haja responsabilidade civil do Estado.;Certo
+A teoria do risco exige que o particular tenha contribuído para o dano para que haja responsabilidade do Estado.;Errado - A teoria do risco estabelece a responsabilidade do Estado desde que o particular não tenha concorrido para o dano.
+A teoria do risco fundamenta a responsabilidade objetiva ou sem culpa do Estado.;Certo
+A teoria do risco se baseia na ideia de que a atividade estatal não gera riscos para os administrados.;Errado - A teoria reconhece que a atividade estatal gera um potencial risco para os administrados.
+Segundo Celso Antônio Bandeira de Mello, a responsabilidade estatal visa garantir a repartição equânime dos ônus decorrentes de atividades lesivas.;Certo
+A teoria do risco exige que se prove a culpa do agente público para que o Estado seja responsabilizado.;Errado - A teoria do risco não exige prova de culpa ou dolo do agente, apenas o nexo de causalidade entre o dano e a conduta estatal.
+Para a responsabilidade civil do Estado ser configurada, é necessário o dano, a conduta administrativa e o nexo causal.;Certo
+A responsabilidade do Estado pela teoria do risco só ocorre se o serviço funcionar mal.;Errado - A responsabilidade pela teoria do risco independe do funcionamento do serviço, bastando o nexo entre a conduta estatal e o dano.
+A teoria do risco integral é amplamente aceita e aplicada pela doutrina administrativa no Brasil.;Errado - A maioria da doutrina critica a teoria do risco integral, sendo aplicada apenas em casos excepcionais.
+Segundo Hely Lopes Meirelles, a teoria do risco integral nunca foi acolhida no Brasil.;Certo
+A teoria do risco integral é aplicável em qualquer tipo de dano causado pelo Estado.;Errado - A teoria do risco integral só é admitida em casos excepcionais, como acidentes nucleares e alguns danos ambientais.
+A Constituição Federal menciona os acidentes nucleares como hipótese de aplicação da teoria do risco integral.;Certo
+A responsabilidade por danos ambientais pode ser fundamentada na teoria do risco integral.;Certo
+As empresas estatais exploradoras de atividade econômica não podem ser responsabilizadas objetivamente por danos ambientais.;Errado - As empresas estatais também podem ser responsabilizadas de forma objetiva com base na teoria do risco integral.
+A teoria do risco integral admite excludentes de responsabilidade como culpa exclusiva do particular.;Errado - A teoria do risco integral não admite excludentes de responsabilidade, mesmo que haja culpa exclusiva do particular.
+José dos Santos Carvalho Filho considera a teoria do risco integral admissível em poucas situações.;Certo
