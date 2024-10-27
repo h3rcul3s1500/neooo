@@ -155,6 +155,23 @@
             font-size: 1em;
             padding: 8px 10px;
         }
+        .input-container {
+            display: flex;
+            align-items: center;
+            padding: 5px;
+            gap: 5px;
+            background-color: #333;
+            color: #fff;
+        }
+        .input-container input {
+            background-color: #444;
+            border: 1px solid #555;
+            color: #fff;
+            padding: 5px;
+            width: 50px;
+            text-align: center;
+            border-radius: 3px;
+        }
         .game-over, .end-game {
             display: none;
             background-color: #1a1a1a;
@@ -181,6 +198,10 @@
             <span>Selecione um arquivo</span>
             <button onclick="toggleFileDropdown()">X</button>
         </div>
+        <div class="input-container">
+            <label for="startQuestion">Questão Inicial:</label>
+            <input type="number" id="startQuestion" min="1" placeholder="1">
+        </div>
     </div>
     <button class="round-button" onclick="toggleFileDropdown()">📂</button>
     <div id="quizContainer" class="content black-background">
@@ -195,9 +216,8 @@
 
     <div class="bottom-bar">
         <button class="button-large" onclick="handleAnswer('certo')">7 - CERTO</button>
-        <button class="button-small" onclick="handleNext()">9</button>
-        <button class="button-small" onclick="renameFile()">4</button>
         <button class="button-large" onclick="handleAnswer('errado')">8 - ERRADO</button>
+        <button class="button-small" onclick="handleNext()">9</button>
     </div>
 
     <script>
@@ -231,8 +251,11 @@
         function loadFileFromUrl(fileUrl, fileName) {
             originalFileName = fileName.replace('.txt', '');
             currentFileUrl = fileUrl;
-            const match = originalFileName.match(/_(\d+)$/);
-            currentQuestionIndex = match ? parseInt(match[1], 10) - 1 : 0;
+
+            // Obter o número da questão inicial a partir do input
+            const startQuestionInput = document.getElementById('startQuestion').value;
+            const startIndex = startQuestionInput ? parseInt(startQuestionInput, 10) - 1 : 0;
+            currentQuestionIndex = startIndex >= 0 ? startIndex : 0;
 
             fetch(fileUrl)
                 .then(response => response.text())
@@ -306,30 +329,6 @@
             }
         }
 
-        function renameFile() {
-            const trimmedName = originalFileName.replace(/_\d+$/, '');
-            const newFileName = `${trimmedName}_${currentQuestionIndex + 1}.txt`;
-            const newFileUrl = currentFileUrl.replace(/_\d+\.txt$/, `_${currentQuestionIndex + 1}.txt`);
-            fetch('/rename', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ originalFileName, newFileName })
-            }).then(response => response.json())
-              .then(data => {
-                  console.log('Arquivo renomeado:', data);
-                  originalFileName = newFileName.replace('.txt', ''); // Atualiza o nome do arquivo no sistema
-                  // Atualizar a URL no fileUrls
-                  const fileIndex = fileUrls.findIndex(file => file.url === currentFileUrl);
-                  if (fileIndex !== -1) {
-                      fileUrls[fileIndex].url = newFileUrl;
-                      fileUrls[fileIndex].name = newFileName.replace('.txt', '');
-                  }
-                  currentFileUrl = newFileUrl;
-                  location.reload(); // Recarrega a página após renomear
-              })
-              .catch(error => console.error('Erro ao renomear arquivo:', error));
-        }
-
         document.addEventListener('DOMContentLoaded', loadFileList);
         document.addEventListener('keydown', (event) => {
             if (event.key === '7') {
@@ -338,8 +337,6 @@
                 handleAnswer('errado');
             } else if (event.key === '9') {
                 handleNext();
-            } else if (event.key === '4') {
-                renameFile();
             }
         });
     </script>
